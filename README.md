@@ -128,8 +128,8 @@ Trained and evaluated multiple models (Linear, Ridge, Lasso, ElasticNet, XGBoost
 | Role | Company | Period |
 |------|---------|--------|
 | 🧑‍💻 LLM Trainer → Team Lead | Turing (Remote) | Apr 2024 – Dec 2025 |
-| ⚙️ Software Engineer | TechLeadz | Apr 2022 – May 2024 |
-| 🐍 Junior Python Developer | Mobylogix | Jan 2021 – Mar 2022 |
+| ⚙️ Software Engineer | TechLeadz | Nov 2022 – May 2024 |
+| 🐍 Junior Python Developer | Mobylogix | Dec 2021 – Sep 2022 |
 
 ---
 
