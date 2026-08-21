@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Hassan Jamal Khan 👋</h1>
 
 <p align="center">
-  <b>Data Scientist · ML/AI Engineer · GenAI Builder</b><br/>
+  <b>Data Scientist · AI/ML Engineer · GenAI Builder</b><br/>
   <i>Turning raw data into intelligent systems — end-to-end.</i>
 </p>
 
